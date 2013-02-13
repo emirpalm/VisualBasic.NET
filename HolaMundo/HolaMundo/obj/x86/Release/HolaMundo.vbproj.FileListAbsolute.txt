@@ -1,0 +1,11 @@
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\bin\Release\HolaMundo.exe
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\bin\Release\HolaMundo.pdb
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\bin\Release\HolaMundo.xml
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\HolaMundo.exe
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\HolaMundo.xml
+C:\Users\trainer\Documents\Visual Studio 2010\Projects\HolaMundo\HolaMundo\obj\x86\Release\HolaMundo.pdb
